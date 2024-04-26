@@ -1,0 +1,263 @@
+*{
+    margin: o;
+    padding: 0;
+    
+}
+
+
+/*section 1 */
+
+
+header{
+    display: flex;
+    background-color: black;
+   
+    color: #ffffff;
+    justify-content: space-around;
+    font-size: larger;
+}
+header span{
+    color: red;
+}
+.bodya{
+    display: flex;
+    padding: 1.2rem 1.5rem;
+    justify-content: space-around;
+    width: 80px;
+    font-weight: 400px;
+}
+.bodya :nth-child(2){
+    margin-left: 115px;
+    margin-right: 115px;
+}
+
+.Remed{
+    font-size: 30px;
+    color: #ffffff;
+}
+.question{
+    color: #ffffff;
+}
+
+.intro{
+    
+    background-repeat: no-repeat;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+}
+.bod{
+    width: 300px;
+    height: 300px;
+    
+}
+.sec1{
+    width: 100%;
+    height: 100vh;
+    background-image: url(james\ care5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-weight: bold;
+}
+.dive{
+    flex: 1;
+    margin: o 10px;
+  
+    display: flex;
+    flex-direction: column;
+}
+/*section 2 */
+
+.sec2{
+    display: flex;
+    margin-top: 30px;
+    justify-content: space-between;
+    
+}
+
+.bod img {
+    width: 100%; 
+    height: auto; 
+
+}
+
+.pa1,
+.pa2,
+.pa3 {
+    text-align: center; 
+    margin-top: 10px;
+}
+
+bodya :nth-child(2){
+    margin-left: 15px;
+    margin-right: 15px;
+
+}
+.bod img :nth-child(1){
+    margin-left: 10px;
+}
+
+/* this is the third section*/
+sec3{
+    width: 100%;
+    height: 80vh;
+    margin: 1.2rem 1.5rem;
+}
+.about2{
+    display:block ;
+    width: 400px;
+    height: 500px;
+}
+.about{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 27px;
+    background-color: darkslategrey;
+    color: #ffffff;
+    padding: 50px;
+    margin-bottom: 27px;
+}
+.aboutp{
+    color: red;
+    font-weight: bold;
+}
+.aboutp2{
+    font-size: 21px;
+}
+.aboutbut{
+    padding: 15px;
+    background-color: darkslategrey;
+    border-color: #ffffff;
+    color: #ffffff;
+}
+
+/* this is the fourth section*/
+
+.sec4{
+    width: 100%;
+    height: 80vh;
+    margin: 1.2rem 1.5rem;
+}
+.articlediv{
+    display: block;
+    width: 400px;
+    height: 500px;
+}
+.articles{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 27px;
+    margin-bottom: 27px;
+    padding: 50px;
+}
+.articlep2{
+    font-size: 22px;
+}
+.articlebut{
+    padding: 10px;
+    background-color: #ffffff;
+    color: black;
+    border-color: black;
+}
+
+/*section 5 */
+
+.sec5{
+    width: 100%;
+    height: 40vh;
+    margin: 1.2rem 1.5rem;
+}
+.testimony{
+    display: block;
+    flex-direction: column;
+    max-width: 100%;
+    height: 200px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: blue;
+    padding: 90px;
+}
+.testimonyp{
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 50pxpx;
+    padding-right: 50px;
+    width: 1200px;
+}
+
+.testimonyp2{
+        font-size: 14px;
+        color: #ffffff;
+        margin-top: 18px;
+}
+.testimonyname{
+    color: #ffffff;
+}
+.julydiv{
+    display: 
+    }
+
+/* this is the 6th section */
+
+.sec6{
+    width: 100%;
+    height: auto;
+    margin: 1.2rem 1.5rem;
+    margin-top: 160px;
+}
+.firstjuly{
+    display: block;
+    width: 300px;
+}
+.secondjuly{
+    display: block;
+    width: 300px;
+}
+.thirdjuly{
+    display: block;
+    width: 300px;
+}
+
+footer{
+    background-color: black;
+    color: #ffffff;
+    text-align: center;
+    padding: 5px;
+}
+.firstjuly img{
+    width: 150px;
+    height: 100px;
+}
+.secondjuly img{
+    width: 150px;
+    height: 100px;
+}
+.thirdjuly img{
+    width: 150px;
+    height: 100px;
+}
+.july{
+    display: flex;
+    justify-content: space-around;
+}
+.Remed{
+    font-size: 19px;
+}
+.question{
+    font-size: 27px; 
+}
+.dive img{
+    width: 350px;
+    height: 300px;
+}
+.divem img{
+    width: 350px;
+    height: 300px;
+}
+.divemm img{
+    width: 350px;
+    height: 300px;
+}
+
+
